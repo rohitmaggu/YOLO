@@ -1,8 +1,6 @@
 
 
 
- I Have wrote a complete tutorial here https://www.datadiscuss.com/yolo-custom-model-part1/  
-
 
 
 
